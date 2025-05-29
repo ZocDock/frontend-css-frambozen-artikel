@@ -7,7 +7,11 @@ body {
 
 /* BONUS: Hex color #535865 for the text color to be converted to HSl: (223, 10%, 36%) */
 
-text {
+p {
+    color: #535865;
+}
+
+li {
     color: #535865;
 }
 
