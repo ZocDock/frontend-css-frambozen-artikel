@@ -21,4 +21,11 @@ li {
     color: #865B9A;
 }
 
+/* Making the introduction part of the text bold */
+
+.introduction {
+    font-weight: bold;
+}
+
+
 /* Import Poppins font family here from Google fonts */
