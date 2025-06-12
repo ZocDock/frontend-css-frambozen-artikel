@@ -17,7 +17,11 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 500;
 }
 
+/* Making the introduction part of the text bold */
 
+.introduction {
+    font-weight: 500;
+}
 
 /* BONUS: Hex color #DFD9E2 for the background to be converted to HSl: (280, 13%, 87%) */
 body {
@@ -40,9 +44,4 @@ li {
     color: #865B9A;
 }
 
-/* Making the introduction part of the text bold */
-
-.introduction {
-    font-weight: bold;
-}
 
