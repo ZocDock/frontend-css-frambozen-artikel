@@ -5,6 +5,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
 
 
+/* Typography */
+
+p, li {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+
+
 /* BONUS: Hex color #DFD9E2 for the background to be converted to HSl: (280, 13%, 87%) */
 body {
     background-color: #DFD9E2;
