@@ -41,7 +41,7 @@ li {
 
 /* BONUS: Hex color #865B9A for the contrast color (for titles, etc) to be converted to HSl: (281, 26%, 48%) */
 
-|h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6 {
     color: #865B9A;
 }
 
