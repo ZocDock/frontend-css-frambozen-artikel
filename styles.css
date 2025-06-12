@@ -1,12 +1,5 @@
 /* Remember; this is a comment */
 
-/* Padding & Margin CSS reset so the browser doesn't override any style changes */
-
-* {
-    margin: 0;
-    padding: 0;
-}
-
 /* Import Poppins font family here from Google fonts */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
