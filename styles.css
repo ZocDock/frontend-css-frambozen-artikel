@@ -1,5 +1,12 @@
 /* Remember; this is a comment */
 
+/* Padding & Margin CSS reset so the browser doesn't override any style changes */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
 /* Import Poppins font family here from Google fonts */
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap');
@@ -19,7 +26,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Making the introduction part of the text bold */
 
-.introduction {
+#introduction {
+    font-family: 'Poppins', sans-serif;
     font-weight: 500;
 }
 
