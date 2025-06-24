@@ -60,7 +60,7 @@ h1, h2 {
 
 /* Button style changes, purple background, poppins font etc */
 
-.button {
+button {
     background-color: #865B9A;
     color: white;
 }
