@@ -12,7 +12,7 @@
 p, li {
     font-family: 'Poppins', sans-serif;
     font-weight: 300;
-    color: #535865;
+    color: hsl(223, 10%, 36%);
 }
 
 /* BONUS: Hex color #865B9A for the contrast color (for titles, etc) to be converted to HSl: (281, 26%, 48%) */
@@ -20,7 +20,7 @@ p, li {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Poppins', sans-serif;
     font-weight: 500;
-    color: #865B9A;
+    color: hsl(281, 26%, 48%);
 
 }
 
@@ -33,9 +33,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* BONUS: Hex color #DFD9E2 for the background to be converted to HSl: (280, 13%, 87%) */
 body {
-    background-color: #DFD9E2;
+    background-color: hsl(280, 13%, 87%);
 }
-
 
 /* Underlining H1 titel */
 
@@ -61,7 +60,7 @@ h1, h2 {
 /* Button style changes, purple background, poppins font etc */
 
 button {
-    background-color: #865B9A;
+    background-color: hsl(281, 26%, 48%);
     color: white;
     font-size: 24px;
 }
