@@ -48,8 +48,8 @@ h1 {
 /* gezonde fruitsoort als monospacing? */
 
 h2 {
-    font-family : 'Poppins', monospace;
     text-transform: uppercase;
+    letter-spacing: 8px;
 }
 
 /* centering of h1 & "gezonde fruitsoort" oftewel h2 */
