@@ -62,7 +62,11 @@ h1, h2 {
 
 .button {
     background-color: #865B9A;
+    color: white;
 }
 
 /* Make listed items have a square instead of a circle bullet */
 
+ul {
+    list-style: square:
+}
