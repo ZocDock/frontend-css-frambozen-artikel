@@ -47,11 +47,18 @@ h1 {
 
 /* gezonde fruitsoort als monospacing? */
 
-/* centering of h1 & "gezonde fruitsoort" */
+h2 {
+    font-family : 'Poppins', monospace;
+    text-transform: uppercase;
+}
+
+/* centering of h1 & "gezonde fruitsoort" oftewel h2 */
+
+h1, h2 {
+    text-align: center;
+}
 
 /* Button style changes, purple background, poppins font etc */
 
 /* Make listed items have a square instead of a circle bullet */
-
-/* Test Commit from new machine */
 
