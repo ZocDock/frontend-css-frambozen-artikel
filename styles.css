@@ -45,7 +45,7 @@ h1 {
 
 /* TO DO NEXT: */
 
-/* gezonde fruitsoort als monospacing? */
+/* gezonde fruitsoort spaced letters */
 
 h2 {
     text-transform: uppercase;
@@ -59,6 +59,10 @@ h1, h2 {
 }
 
 /* Button style changes, purple background, poppins font etc */
+
+.button {
+    background-color: #865B9A;
+}
 
 /* Make listed items have a square instead of a circle bullet */
 
