@@ -65,6 +65,10 @@ button {
     font-size: 24px;
 }
 
+button:hover {
+    background-color: crimson;
+}
+
 /* Make listed items have a square instead of a circle bullet */
 
 ul {
